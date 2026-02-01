@@ -7,6 +7,7 @@
    \ \_\    /\_____\/\_\\ \_\\ \____/\ \____/\/______/ \ `\___x___/\ \_\ \_\ \_\ \_\
     \/_/    \/_____/\/_/ \/_/ \/___/  \/___/            '\/__//__/  \/_/\/_/\/_/\/ /
 ```
+Das Projekt ”Pixel-War” ist eine verteilte Webanwendung, die es Nutzern ermöglicht, gemeinsam Pixel auf einer digitalen Leinwand zu setzen und in Echtzeit miteinander zu interagieren. Die Hauptfunktionen umfassen das Setzen von Pixeln mit einer Farbpalette, das Anzeigen von Echtzeit-Updates der Leinwand und das Verwalten von Benutzeraktionen wie Cooldowns.
 
 # Zum lokalen starten des Projektes
 
@@ -67,4 +68,5 @@
 - **Session-Management**: Jose, cookies (next/headers)
 - **Datenbanken**: Redis, PostgreSQL
 - **Containerisierung**: Docker, Docker Swarm
+
 - **Load Balancer**: HAProxy
